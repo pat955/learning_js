@@ -1,1 +1,2 @@
-# learning_js
+# Learning Javascript
+Practicing easy problems in javascript.
